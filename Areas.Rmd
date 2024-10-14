@@ -20,5 +20,5 @@ Area <- pi * r * 2
 
 ```{r}
 lado <- 3
-Area <- lado * lado
+AreaCuadrado <- lado ^ 2
 ```
