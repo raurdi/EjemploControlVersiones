@@ -16,3 +16,9 @@ r <- 0.5
 Area <- pi * r * 2
 ```
 
+## área cuadrado
+
+```{r}
+lado <- 3
+Area <- lado * lado
+```
