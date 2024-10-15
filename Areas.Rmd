@@ -22,3 +22,11 @@ Area <- pi * r * 2
 lado <- 3
 AreaCuadrado <- lado ^ 2
 ```
+
+## área triángulo
+
+```{r}
+base <- 4
+altura <- 5
+AreaTriangulo <- base * altura / 2
+```
