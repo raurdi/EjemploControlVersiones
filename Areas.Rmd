@@ -30,3 +30,11 @@ base <- 4
 altura <- 5
 AreaTriangulo <- base * altura / 2
 ```
+
+## área rectángulo
+
+```{r}
+base <- 4
+altura <- 5
+AreaRectangulo <- base * altura
+```
