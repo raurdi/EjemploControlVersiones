@@ -38,3 +38,12 @@ base <- 4
 altura <- 5
 AreaRectangulo <- base * altura
 ```
+
+## área trapecio
+
+```{r}
+b <- 4
+B <- 5
+H <- 8
+AreaRectangulo <- (b+B)*H/2
+```
